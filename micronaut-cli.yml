@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: agorapulse.integration
+---
+testFramework: junit
+sourceLanguage: java
